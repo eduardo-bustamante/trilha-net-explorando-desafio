@@ -1,0 +1,15 @@
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+E:\Documents\Dotnet\trilha-net-explorando-desafio-main\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
